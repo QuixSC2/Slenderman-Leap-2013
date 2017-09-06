@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity SlenderMan.Plugins", "Unity SlenderMan.Plugins.csproj", "{3F0F7D0F-92E4-0A39-E846-DC9D9F162607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity SlenderMan", "Unity SlenderMan.csproj", "{B22F0D81-3D9C-D4C7-EC5E-979D147C71A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity SlenderMan.Editor", "Unity SlenderMan.Editor.csproj", "{7CDB0F6F-E5FF-0457-354B-DD13833D10D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F0F7D0F-92E4-0A39-E846-DC9D9F162607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0F7D0F-92E4-0A39-E846-DC9D9F162607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0F7D0F-92E4-0A39-E846-DC9D9F162607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F0F7D0F-92E4-0A39-E846-DC9D9F162607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B22F0D81-3D9C-D4C7-EC5E-979D147C71A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22F0D81-3D9C-D4C7-EC5E-979D147C71A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22F0D81-3D9C-D4C7-EC5E-979D147C71A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22F0D81-3D9C-D4C7-EC5E-979D147C71A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CDB0F6F-E5FF-0457-354B-DD13833D10D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDB0F6F-E5FF-0457-354B-DD13833D10D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDB0F6F-E5FF-0457-354B-DD13833D10D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDB0F6F-E5FF-0457-354B-DD13833D10D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
